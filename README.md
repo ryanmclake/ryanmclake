@@ -1,6 +1,6 @@
 ## Hi there 👋, I'm Ryan
 
-- 🔭 I’m investigate changes in lake and reservoir ecology from local to global scales
+- 🔭 I investigate changes in lake and reservoir ecology from local to global scales
 - 💻 I do most of my programming in R but I like to dable in other platforms
 - 🌱 For example, I’m currently working to expand my Python
 - 📫 You can reach me at: [ryan.mcclure@wsu.edu]
