@@ -6,5 +6,4 @@
 - 📫 You can reach me at: [rmcclure@carnegiescience.edu]
 - ⚡ Fun fact: I was an avid whitewater kayaker and have paddled some of the World's deepest canyons
 
-![Ryan's GitHub stats](https://github-readme-stats.vercel.app/api?username=ryanmclake&show_icons=true&theme=merko)
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=ryanmclake&layout=compact&theme=merko)
